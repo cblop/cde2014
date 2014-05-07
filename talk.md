@@ -9,9 +9,6 @@ Matt Thompson, Sysemia Ltd
 ![Default-aligned-image](img/sysemia-logo-blue.png)
 
 ---
-background-image: url(img/sims.png)
-
----
 layout: false
 # Generative stories
 
@@ -20,14 +17,26 @@ layout: false
 
 ---
 class:  middle, inverse
-background-image: url(img/choose.jpg)
+background-image: url(img/sims.png)
 
 ---
 layout: false
 # Interactive stories
 
 - non-linear
-- like "Choose your own adventure"
+- "multiple endings"
+
+---
+class:  middle, inverse
+background-image: url(img/choose.jpg)
+
+---
+layout: false
+# Research themes
+
+- training simulations
+- computer games
+- interactive art
 
 ---
 class: center, middle, inverse
@@ -43,6 +52,13 @@ layout: false
 
 ---
 layout: false
+# Narrative ontology
+
+- data describing the narrative domain
+- adds semantics, meanings
+
+---
+layout: false
 # Next steps
 
 - make it interactive!
@@ -52,16 +68,11 @@ layout: false
 class: center, middle, inverse
 background-image: url(img/shapes.png)
 
----
-layout: false
-# Narrative ontology
-
-- data describing the narrative domain
-- adds semantics, meanings
 
 ---
 
 class: center, middle, inverse
 
 # Thanks
+
 
